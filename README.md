@@ -11,7 +11,7 @@
 
 ### What is this library about?
 
-This is *somehow* a toolkit for Rust programmers with common fast math algorithms. It helps developers optimizing their code for critical-performance needs.
+This is *somehow* a library for Rust programmers with common fast math algorithms. It helps developers optimizing their code for critical-performance needs.
 
 ### How to use it?
 
@@ -28,4 +28,4 @@ For now, this library includes (but isn't limited to):
 
 ___
 
-<sup>If you're hella rich, consider donating *Solana* here: `UkAKdEVUkjazK73DvJzSjTW36yhzTrBA7eLPCsUzYhT`</sup>
+<sup>If you're hella rich, consider donating in *Solana* here: `UkAKdEVUkjazK73DvJzSjTW36yhzTrBA7eLPCsUzYhT`</sup>
