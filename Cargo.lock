@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "fastmath"
+name = "quickmaths"
 version = "0.1.0"
